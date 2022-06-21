@@ -1,5 +1,7 @@
 ![](Capture.PNG)
 
+Hosted URL: https://lets-cod.github.io/HTML-Base-Tags-Meta-Tags-Body-Div-Span-P-tag---Post-Class---HTML---CSS-Mini-Project---yaeb24f/
+
 1.Write the project description
 In this project i have made a UI design for web page which describes the portfolio of client.
 
